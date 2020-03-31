@@ -1,0 +1,54 @@
+ body{
+   /* background-color:#011687; */
+   font-family: 'Neucha', cursive;
+   text-align: center;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.3),rgba(0, 0, 0, 0.3)), url(hacking0.jpg);
+     background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+   font-size:40px;
+  color:#FF337A;
+
+}
+li{
+  color: orange;
+}
+#facebook{
+  color: orange;
+
+}
+#linkedin{
+  color: orange;
+}
+#twitter{
+  color:orange;
+}
+#HIT{
+  color: orange;
+}
+#CSE{
+  color: orange;
+}
+div img{
+  border-radius: 250px;
+}
+.option li{
+  text-decoration: none;
+  font-size: 25px;
+
+  float: 10px right;
+  display: inline-block;
+  background-color: #3AF67A;
+  padding: 6px 17px;
+  border:1px solid #darkblue;
+  border-radius: 60px;
+}
+.option li:hover{
+  background-color: white;
+  color: green;
+
+}
+#active{
+  background-color: white;
+  color:#000;
+}
