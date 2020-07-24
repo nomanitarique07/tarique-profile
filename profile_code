@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Tarique_Nomani/homepage</title>
+    <link rel="stylesheet" href="tarique.css">
+    <link href="https://fonts.googleapis.com/css?family=Neucha&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="tar_gallery.html">
+    <link rel="stylesheet" href="tar_about.html">
+  </head>
+  <body>
+    <h1>Homepage<em>(tariqueNomani)</em></h1>
+    <div class="option">
+      <li id="active"><a href="#">Home</a> </li>
+      <li><a href="C:\Users\noman\OneDrive\Documents\Tarique_Nomani\tar_about.html">About</a> </li>
+      <li><a href="C:\Users\noman\OneDrive\Documents\Tarique_Nomani\tar_gallery.html">Gallery</a> </li>
+
+    </div>
+    <h2 class="h2">Welcome to my profile !</h2>
+  <div><img src="tarique2.jpg" height="300px" width="300px"/> </div><br>
+<div class="intro">
+  TARIQUE NOMANI <br>
+  DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING <br>
+  Computer Science Engineer @ Heritage Institute of technology <br>
+
+  <li>Web Developer</li>
+  <li>Ethical Hacker</li>
+  <li>DSC Member</li>
+</div>
+      <h3>Connections:</h3>
+
+
+      <li>  <a id="facebook" href="https://www.facebook.com/tarique.nomani.52">facebook/tariqueNomani</a>
+        </li>
+        <li><a id="linkedin" href="https://www.linkedin.com/in/tarique-nomani-249176190">linkedin/tariqueNomani</a></li>
+        <li><a id="twitter" href="https://twitter.com/TariqueNomani">twitter/tarique</a></li>
+
+    <h4>Email:nomanitarique07@gmail.com</h4>
+    <h4>Contacts:9521277886</h4>
+    <a id="HIT" href="https://heritageit.edu/">Heritage Institute of technology</a>
+    <p></p>
+  <a id="CSE" href="https://heritageit.edu/CSE.aspx">CSE Department/Heritage</a> <p></p>
+
+  </body>
+</html>
